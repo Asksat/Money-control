@@ -1,0 +1,5 @@
+env
+dashboard/__pycache__
+dashboard/migrations
+db.sqlite3
+core/__pycache__
